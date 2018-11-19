@@ -1,11 +1,16 @@
 _repo: Motion-pictures-1940-1949_58237
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58237-h/images/cover.jpg
 creator:
   author:
     agent_name: Congress, Copyright Office Library of
     gutenberg_agent_id: '49847'
     url: http://www.gutenberg.org/2009/agents/49847
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58237#Motion-pictures-1940-1949
 gutenberg_issued: '2018-11-05'
 gutenberg_type: Text
 identifiers:
